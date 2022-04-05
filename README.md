@@ -7,6 +7,14 @@ This project was created as a student summer project under supervision of Dr. Va
     $ git clone https://github.com/adamreidsmith/manifold-data-in-nns
     $ cd manifold-data-in-nns
     $ sudo pip3 install -r requirements.txt
+    
+# Technologies Used
+ * [Python 3](https://www.python.org)
+ * [PyTorch](https://pytorch.org)
+ * [PyWavelets](https://pywavelets.readthedocs.io)
+ * [NumPy](https://numpy.org)
+ * [SciPy](https://scipy.org)
+ * [Matplotlib](https://matplotlib.org)
 
 # License
 [MIT](/LICENSE)
